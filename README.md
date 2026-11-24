@@ -17,6 +17,17 @@
 | **AppLock** | Swift | Lock apps behind Face ID / passcode |
 | **Georgia Drive** | Unity 6 · C# | Open-road driving game for iOS |
 
+### 📲 Android apps I've built (live on Google Play)
+| AI & Productivity | Utilities & Tools | Lifestyle & Learning |
+|---|---|---|
+| Uplingo: AI Language Tutor | Screen Mirroring TV Cast | Calorie Counter & Food Tracker |
+| AI Essay Writer | Image to PDF Converter | Math Homework Helper |
+| AI Detector & Humanize AI Text | PDF Editor, Viewer & Sign Maker | Language Learning |
+| Plagiarism Checker & Detector | Video to MP3 Audio Converter | UV Index |
+| Grammar Checker & Spell Check | App Lock: Private Photo Vault | Parental Control & Child App |
+| Tyno Art: AI Image Generator | Private Browser | AR Drawing |
+| AI Photo Generator & Remove BG | Invoice Maker | Photo Video Maker with Music |
+
 _Most client and product code is private; demos available on request._
 
 ### Tech
