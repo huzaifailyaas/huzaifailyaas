@@ -8,23 +8,24 @@
 - 🍏 **Native iOS**: SwiftUI, Combine, StoreKit, Firebase
 
 
-### 📲 Android apps I've built (live on Google Play)
-| AI & Productivity | Utilities & Tools | Lifestyle & Learning |
+### 📲 Android apps I've built
+| App | Downloads | What it is |
 |---|---|---|
-| Uplingo: AI Language Tutor | Screen Mirroring TV Cast | Calorie Counter & Food Tracker |
-| AI Essay Writer | Image to PDF Converter | Math Homework Helper |
-| AI Detector & Humanize AI Text | PDF Editor, Viewer & Sign Maker | Language Learning |
-| Plagiarism Checker & Detector | Video to MP3 Audio Converter | UV Index |
-| Grammar Checker & Spell Check | App Lock: Private Photo Vault | Parental Control & Child App |
-| Tyno Art: AI Image Generator | Private Browser | AR Drawing |
-| AI Photo Generator & Remove BG | Invoice Maker | Photo Video Maker with Music |
+| Photo Video Maker with Music | **5M+** | AI photo and video maker |
+| Uplingo: AI Language Tutor | **1M+** | AI English speaking tutor |
+| AI Detector & Humanize AI Text | **50K+** | AI text detection and rewriting |
+| Plagiarism Checker & Detector | **10K+** | Plagiarism scanning for students and writers |
+| AI Math Homework Helper | **10K+** | Photo-to-solution math solver |
+| REXI: AI Photo & Image Generator | **10K+** | Text-to-image generator |
+| Parental Control (Parent + Child apps) | In testing | Screen time limits, app blocking, location |
 
+**More live on Google Play:** AI Essay Writer · PDF Editor & Sign Maker · App Lock & Photo Vault · Screen Mirroring · My Lingoo Language Learning · Calorie Counter · Image to PDF · Video to MP3 · Grammar Checker · Logo & Flyer Maker
 
 ### Tech
 `Kotlin` `Jetpack Compose` `Swift` `SwiftUI` `Firebase` `Room` `Retrofit` `Coroutines/Flow` `TensorFlow Lite` `Unity` `Git`
 
 ### Contact
-📫 huzaifailyas203@gmail.com
+📫 huzaifailyas203@gmail.com · 💼 [Hire me on Upwork](https://www.upwork.com/freelancers/~01d161cb43f2d57af0)
 
 <img src="https://github-readme-stats.vercel.app/api?username=huzaifailyaas&show_icons=true&count_private=true&hide_border=true" height="150" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=huzaifailyaas&layout=compact&hide_border=true" height="150" />
