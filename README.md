@@ -29,3 +29,4 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=huzaifailyaas&show_icons=true&count_private=true&hide_border=true" height="150" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=huzaifailyaas&layout=compact&hide_border=true" height="150" />
+<img src="https://streak-stats.demolab.com/?user=huzaifailyaas&hide_border=true" height="150" />
