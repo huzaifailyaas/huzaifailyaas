@@ -1,5 +1,7 @@
 # Hi, I'm Huzaifa Ilyas 👋
 
+<img src="https://komarev.com/ghpvc/?username=huzaifailyaas&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+
 **Mobile developer (Android + iOS)** from Pakistan. I build native apps with **Kotlin / Jetpack Compose** and **Swift / SwiftUI**, backed by Firebase and AI APIs.
 
 ### What I build
