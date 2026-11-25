@@ -29,6 +29,10 @@
 ### Contact
 📫 huzaifailyas203@gmail.com · 💼 [Hire me on Upwork](https://www.upwork.com/freelancers/~01d161cb43f2d57af0)
 
-<img src="https://github-readme-stats.vercel.app/api?username=huzaifailyaas&show_icons=true&count_private=true&hide_border=true" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=huzaifailyaas&layout=compact&hide_border=true" height="150" />
-<img src="https://streak-stats.demolab.com/?user=huzaifailyaas&hide_border=true" height="150" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=huzaifailyaas&show_icons=true&count_private=true&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=huzaifailyaas&layout=compact&hide_border=true" height="165" />
+</p>
+<p align="left">
+  <img src="https://streak-stats.demolab.com/?user=huzaifailyaas&hide_border=true" height="165" />
+</p>
